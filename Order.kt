@@ -1,4 +1,4 @@
-package com.e.testkors
+package com.testkotlin
 
 import android.os.Build
 import androidx.annotation.RequiresApi
